@@ -7,7 +7,8 @@ First things first Datatypes.
 Definition:
 
 ```console
-A particular kind of data item, as defined by the values it can take, the programming language used, or the operations that can be performed on it.
+A particular kind of data item, as defined by the values it can take, 
+the programming language used, or the operations that can be performed on it.
 ```
 
 The basic ones are:
