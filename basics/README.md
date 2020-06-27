@@ -1,6 +1,14 @@
 # BASICS:
 
-## 1. [SUM](https://github.com/AmanPriyanshu/revisiting-cpp/blob/master/basics/SUM.md):
+## 1. [NOTES]():
+
+My notes don't use don't implement highly prone to errors. I will most likely copy definitions from places on the internet or books I like.
+
+## 2. [DataTypes]():
+
+data types.
+
+## 3. [SUM](https://github.com/AmanPriyanshu/revisiting-cpp/blob/master/basics/SUM.md):
 
 Adds 2 numbers
 
@@ -22,6 +30,7 @@ int main( )
 	// terminate successfully
 	return 0;
 }
+
 ```
 
 Output:
