@@ -1,6 +1,6 @@
 # BASICS:
 
-## 1. [SUM]():
+## 1. [SUM](https://github.com/AmanPriyanshu/revisiting-cpp/blob/master/basics/SUM.md):
 
 code:
 ```cpp
