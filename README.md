@@ -49,6 +49,7 @@ Welcome to my first C ++ program on Ubuntu Linux
 
 user@user:~/Desktop/programming_cpp$ 
 ```
+Alternate compilation: `sudo g++ -o hello hello.cpp` executed by `./hello`
 Code Within:
 
 ```cpp
