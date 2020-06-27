@@ -2,6 +2,8 @@
 
 ## 1. [SUM](https://github.com/AmanPriyanshu/revisiting-cpp/blob/master/basics/SUM.md):
 
+Adds 2 numbers
+
 code:
 ```cpp
 //#include <cstdlib>
