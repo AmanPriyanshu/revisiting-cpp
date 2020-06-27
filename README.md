@@ -66,3 +66,9 @@ int main()
 
 }
 ```
+
+Now that Installation has been documented. So, we can begin. I will be creating a list here, linking to the `.cpp` file to which they point.
+
+## LIST:
+
+1. [Basics]()
