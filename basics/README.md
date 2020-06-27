@@ -191,3 +191,14 @@ int main( )
 	return 0;
 }
 ```
+
+## OUTPUT:
+
+```console
+user@user:~/Desktop/programming_cpp/revisiting-cpp/basics$ sudo g++ -o sum sum.cpp
+user@user:~/Desktop/programming_cpp/revisiting-cpp/basics$ ./sum
+Please enter two numbers: 4 5
+Their sum is 9
+ddos@user:~/Desktop/programming_cpp/revisiting-cpp/basics$ 
+
+```
