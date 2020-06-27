@@ -186,7 +186,7 @@ int main( )
 	// input x and y
 	int sum = x + y;
 	// compute their sum
-	cout << "Their sum is " << sum << std::endl;
+	cout << "Their sum is " << sum << endl;
 	// terminate successfully
 	return 0;
 }
