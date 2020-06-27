@@ -72,4 +72,4 @@ Now that Installation has been documented. So, we can begin. I will be creating 
 
 ## LIST:
 
-1. [Basics]()
+1. [Basics](https://github.com/AmanPriyanshu/revisiting-cpp/tree/master/basics)
