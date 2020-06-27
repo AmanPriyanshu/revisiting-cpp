@@ -146,3 +146,48 @@ converts wide character to a multibyte character
 29. C++ _Exit()
 
 causes termination without cleanup tasks
+
+```cpp
+#include <iostream>
+```
+
+It is the predefined library function used for input and output also called as header files. iostream is the header file which contains all the functions of program like cout, cin etc.
+
+```cpp
+int x, y;
+```
+
+basically defines x and y
+
+```cpp
+std::cout << "Please enter two numbers: ";
+```
+
+Writes out to the terminal
+
+```cpp
+std::cin >> x >> y;
+```
+
+Takes input.
+
+That's it a better implementation is on `sum1`.
+
+```cpp
+//#include <cstdlib>
+#include <iostream>
+/* This program inputs two numbers x and y and outputs their sum */
+using namespace std;
+int main( ) 
+{
+	int x, y;
+	cout << "Please enter two numbers: ";
+	cin >> x >> y;
+	// input x and y
+	int sum = x + y;
+	// compute their sum
+	cout << "Their sum is " << sum << std::endl;
+	// terminate successfully
+	return 0;
+}
+```
