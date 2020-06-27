@@ -1,4 +1,4 @@
-#include <cstdlib>
+//#include <cstdlib>
 #include <iostream>
 /* This program inputs two numbers x and y and outputs their sum */
 int main( ) 
