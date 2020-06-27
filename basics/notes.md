@@ -65,6 +65,8 @@ Float	0.1
 Double	0.01
 user@user:~/Desktop/programming_cpp/revisiting-cpp/basics$ 
 ```
-![relative path is wrong](Image_url.png)
+
+The table below is an easy descryption for every simple datatype.
+![relative path is wrong](https://github.com/AmanPriyanshu/revisiting-cpp/blob/master/basics/datatypes_in_cpp.png)
 
 
