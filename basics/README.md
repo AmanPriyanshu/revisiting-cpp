@@ -4,7 +4,7 @@
 
 My notes don't use don't implement highly prone to errors. I will most likely copy definitions from places on the internet or books I like.
 
-## 2. [DataTypes]():
+## 2. [DataTypes](https://github.com/AmanPriyanshu/revisiting-cpp/blob/master/basics/notes.md#datatypes):
 
 data types.
 
