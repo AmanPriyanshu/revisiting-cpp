@@ -20,3 +20,32 @@ Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18
 Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
 ```
+Execution:
+
+basic file creation, etc.
+
+```console
+user@user:~/Desktop$ mkdir programming_cpp
+user@user:~/Desktop$ cd programming_cpp/
+user@user:~/Desktop/programming_cpp$ sudo gedit hello.cpp
+[sudo] password for user: 
+
+** (gedit:32730): WARNING **: 11:51:11.056: Set document metadata failed: Setting attribute metadata::gedit-spell-language not supported
+
+** (gedit:32730): WARNING **: 11:51:11.057: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:32730): WARNING **: 11:51:11.251: Set document metadata failed: Setting attribute metadata::gedit-spell-language not supported
+
+** (gedit:32730): WARNING **: 11:51:11.251: Set document metadata failed: Setting attribute metadata::gedit-encoding not supported
+
+** (gedit:32730): WARNING **: 11:51:15.556: Set document metadata failed: Setting attribute metadata::gedit-position not supported
+user@user:~/Desktop/programming_cpp$ sudo g++ hello.cpp
+user@user:~/Desktop/programming_cpp$ ./a.out
+
+
+Hello World,
+Welcome to my first C ++ program on Ubuntu Linux
+
+
+user@user:~/Desktop/programming_cpp$ 
+```
