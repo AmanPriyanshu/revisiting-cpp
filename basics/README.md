@@ -1,6 +1,6 @@
 # BASICS:
 
-## 1. [NOTES]():
+## 1. [NOTES](https://github.com/AmanPriyanshu/revisiting-cpp/blob/master/basics/notes.md):
 
 My notes don't use don't implement highly prone to errors. I will most likely copy definitions from places on the internet or books I like.
 
